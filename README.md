@@ -8,7 +8,25 @@ An open-source custom menu compilation project for **Sega Genesis / Mega Drive**
 
 ---
 
-## 🛠️ Hardware Compatibility
+## 🛠️ Requirements & Development Environment
+
+The menus in this project are developed and compiled using **Visual Studio Code** paired with the **Genesis Code** extension and the **SGDK** toolchain.
+
+* **Compiler Suite:** [SGDK (Sega Genesis Development Kit)](https://github.com) by Stephane Dallongeville
+* **IDE:** [Visual Studio Code](https://visualstudio.com)
+* **VS Code Extension:** [Genesis Code](https://visualstudio.com) (simplifies build, debug, and project management for Sega Genesis development)
+* **Toolchain:** Integrated GCC cross-compiler (`m68k-elf` target)
+
+### Building the Project in VS Code:
+1. Open the project root or a specific volume directory (e.g., `megagames-pak-vol1`) in **Visual Studio Code**.
+2. Make sure the **Genesis Code** extension is installed and properly configured with your local **SGDK** path.
+3. Use the extension command palette or shortcut to compile the project:
+   * Press `Ctrl+Shift+B` (or `Cmd+Shift+B` on macOS) to trigger the build task provided by Genesis Code.
+   * Alternatively, use the command palette (`Ctrl+Shift+P`) and select **Genesis Code: Compile Project**.
+
+---   
+
+## 💾 Hardware Compatibility
 
 This software multi-game compilation is built specifically to be flashed and deployed on the custom multi-game retro-hardware board layout:
 
