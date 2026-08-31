@@ -12,9 +12,9 @@ An open-source custom menu compilation project for **Sega Genesis / Mega Drive**
 
 The menus in this project are developed and compiled using **Visual Studio Code** paired with the **Genesis Code** extension and the **SGDK** toolchain.
 
-* **Compiler Suite:** [SGDK (Sega Genesis Development Kit)](https://github.com) by Stephane Dallongeville
-* **IDE:** [Visual Studio Code](https://visualstudio.com)
-* **VS Code Extension:** [Genesis Code](https://visualstudio.com) (simplifies build, debug, and project management for Sega Genesis development)
+* **Compiler Suite:** [SGDK (Sega Genesis Development Kit)](https://github.com/Stephane-D/sgdk) by Stephane Dallongeville
+* **IDE:** [Visual Studio Code](https://code.visualstudio.com/)
+* **VS Code Extension:** [Genesis Code](https://marketplace.visualstudio.com/items?itemName=zerasul.genesis-code) (simplifies build, debug, and project management for Sega Genesis development)
 * **Toolchain:** Integrated GCC cross-compiler (`m68k-elf` target)
 
 ### Building the Project in VS Code:
