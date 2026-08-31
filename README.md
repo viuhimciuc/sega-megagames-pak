@@ -32,7 +32,8 @@ This software multi-game compilation is built specifically to be flashed and dep
 
 <p align="center">
   <a href="https://github.com/viuhimciuc/Cartridge-SEGA/tree/main/GEN-CART-171-6570A_MultiGames">
-    <img src="https://raw.githubusercontent.com/viuhimciuc/Cartridge-SEGA/main/GEN-CART-171-6570A_MultiGames/Documents/GEN-CART-171-6570A_MultiGames_top.png" alt="GEN-CART-171-6570A MultiGames PCB Layout" width="45%">
+    <img src="https://raw.githubusercontent.com/viuhimciuc/Cartridge-SEGA/main/GEN-CART-171-6570A_MultiGames/Documents/GEN-CART-171-6570A_MultiGames_top.png" alt="GEN-CART-171-6570A MultiGames PCB Layout Top" width="45%">
+	<img src="https://raw.githubusercontent.com/viuhimciuc/Cartridge-SEGA/main/GEN-CART-171-6570A_MultiGames/Documents/GEN-CART-171-6570A_MultiGames_bottom.png" alt="GEN-CART-171-6570A MultiGames PCB Layout Bottom" width="45%">
   </a>
 </p>
 
